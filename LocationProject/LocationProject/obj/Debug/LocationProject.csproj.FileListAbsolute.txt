@@ -18,3 +18,13 @@ C:\Users\bakirschbaum\source\repos\LocationProject\LocationProject\obj\Debug\Loc
 C:\Users\bakirschbaum\source\repos\LocationProject\LocationProject\obj\Debug\LocationProject.csproj.CoreCompileInputs.cache
 C:\Users\bakirschbaum\source\repos\LocationProject\LocationProject\obj\Debug\LocationProject.exe
 C:\Users\bakirschbaum\source\repos\LocationProject\LocationProject\obj\Debug\LocationProject.pdb
+C:\Users\bakirschbaum\Documents\GitHub\CSharp\LocationProject\LocationProject\bin\Debug\LocationProject.exe.config
+C:\Users\bakirschbaum\Documents\GitHub\CSharp\LocationProject\LocationProject\bin\Debug\LocationProject.exe
+C:\Users\bakirschbaum\Documents\GitHub\CSharp\LocationProject\LocationProject\bin\Debug\LocationProject.pdb
+C:\Users\bakirschbaum\Documents\GitHub\CSharp\LocationProject\LocationProject\bin\Debug\Google.Maps.dll
+C:\Users\bakirschbaum\Documents\GitHub\CSharp\LocationProject\LocationProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bakirschbaum\Documents\GitHub\CSharp\LocationProject\LocationProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bakirschbaum\Documents\GitHub\CSharp\LocationProject\LocationProject\obj\Debug\LocationProject.csprojResolveAssemblyReference.cache
+C:\Users\bakirschbaum\Documents\GitHub\CSharp\LocationProject\LocationProject\obj\Debug\LocationProject.csproj.CoreCompileInputs.cache
+C:\Users\bakirschbaum\Documents\GitHub\CSharp\LocationProject\LocationProject\obj\Debug\LocationProject.exe
+C:\Users\bakirschbaum\Documents\GitHub\CSharp\LocationProject\LocationProject\obj\Debug\LocationProject.pdb
