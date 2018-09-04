@@ -1,0 +1,7 @@
+c:\users\bakirschbaum\source\repos\SharePointFolderCreation\SharePointFolderCreation\bin\Debug\SharePointFolderCreation.exe.config
+c:\users\bakirschbaum\source\repos\SharePointFolderCreation\SharePointFolderCreation\bin\Debug\SharePointFolderCreation.exe
+c:\users\bakirschbaum\source\repos\SharePointFolderCreation\SharePointFolderCreation\bin\Debug\SharePointFolderCreation.pdb
+c:\users\bakirschbaum\source\repos\SharePointFolderCreation\SharePointFolderCreation\obj\Debug\SharePointFolderCreation.csprojResolveAssemblyReference.cache
+c:\users\bakirschbaum\source\repos\SharePointFolderCreation\SharePointFolderCreation\obj\Debug\SharePointFolderCreation.csproj.CoreCompileInputs.cache
+c:\users\bakirschbaum\source\repos\SharePointFolderCreation\SharePointFolderCreation\obj\Debug\SharePointFolderCreation.exe
+c:\users\bakirschbaum\source\repos\SharePointFolderCreation\SharePointFolderCreation\obj\Debug\SharePointFolderCreation.pdb
