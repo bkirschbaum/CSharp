@@ -1,0 +1,10 @@
+c:\users\bakirschbaum\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe.config
+c:\users\bakirschbaum\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe
+c:\users\bakirschbaum\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.pdb
+c:\users\bakirschbaum\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csprojResolveAssemblyReference.cache
+c:\users\bakirschbaum\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CoreCompileInputs.cache
+c:\users\bakirschbaum\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.exe
+c:\users\bakirschbaum\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.pdb
+c:\users\bakirschbaum\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\Google.Maps.dll
+c:\users\bakirschbaum\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\Newtonsoft.Json.dll
+c:\users\bakirschbaum\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\Newtonsoft.Json.xml
