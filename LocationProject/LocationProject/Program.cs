@@ -4,6 +4,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Configuration;
 
 namespace LocationProject
 {
@@ -17,7 +18,7 @@ namespace LocationProject
 
 
             // SQL to add to SitesList
-            using (SqlConnection sqlConnection2 = new SqlConnection(ConnetionString()))
+            using (SqlConnection sqlConnection2 = new SqlConnection(ConfigurationManager.ConnectionStrings["Con1"].ConnectionString))
             {
                 sqlConnection2.Open();
 
@@ -35,6 +36,7 @@ namespace LocationProject
                 sqlConnection2.Close();
             }
 
+            #region
             /*
             // Upload Result Set Test
             using (SqlConnection sqlConnection2 = new SqlConnection(ConnetionString()))
@@ -58,6 +60,8 @@ namespace LocationProject
             }
             
             */
+            #endregion
+
 
             // List to hold calculated distances
             List<Distance> DistanceList = new List<Distance>();
@@ -125,38 +129,6 @@ namespace LocationProject
         }
 
         /****************************** End Haversine *****************************************/
-
-
-        //Connection String
-        public static string ConnetionString()
-        {
-            return "Data Source=ahwsqlch3024.DS.SJHS.com;Initial Catalog=FM_OPERATIONS;Integrated Security=True";
-        }
-
-        //Test to make sure there is a valid connection to the server
-        public static string ValidConnection1()
-        {
-            try
-            {
-                SqlConnection sqlConnection1 = new SqlConnection(ConnetionString());
-                SqlCommand cmd = new SqlCommand();
-                sqlConnection1.Open();
-                sqlConnection1.Close();
-                return "Success";
-            }
-            catch (Exception ex)
-            {
-
-                return "Failed";
-            }
-
-
-
-        }
-
-
-
-
 
 
 
