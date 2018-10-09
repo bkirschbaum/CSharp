@@ -1,0 +1,11 @@
+C:\Users\bakirschbaum\source\repos\Requests\Requests\obj\Debug\Requests.csprojResolveAssemblyReference.cache
+C:\Users\bakirschbaum\source\repos\Requests\Requests\obj\Debug\Requests.Form1.resources
+C:\Users\bakirschbaum\source\repos\Requests\Requests\obj\Debug\Requests.Properties.Resources.resources
+C:\Users\bakirschbaum\source\repos\Requests\Requests\obj\Debug\Requests.csproj.GenerateResource.Cache
+C:\Users\bakirschbaum\source\repos\Requests\Requests\obj\Debug\Requests.csproj.CoreCompileInputs.cache
+C:\Users\bakirschbaum\source\repos\Requests\Requests\bin\Debug\Requests.exe.config
+C:\Users\bakirschbaum\source\repos\Requests\Requests\bin\Debug\Requests.exe
+C:\Users\bakirschbaum\source\repos\Requests\Requests\bin\Debug\Requests.pdb
+C:\Users\bakirschbaum\source\repos\Requests\Requests\obj\Debug\Requests.exe
+C:\Users\bakirschbaum\source\repos\Requests\Requests\obj\Debug\Requests.pdb
+C:\Users\bakirschbaum\source\repos\Requests\Requests\obj\Debug\Requests.Form2.resources
