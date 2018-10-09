@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using System.Data.SqlClient;
+using System.Configuration;
 
 
 namespace SharePointFolderCreation
@@ -19,7 +20,7 @@ namespace SharePointFolderCreation
 
 
             // SQL to add to SitesList
-            using (SqlConnection sqlConnection2 = new SqlConnection(ConnetionString()))
+            using (SqlConnection sqlConnection2 = new SqlConnection(System.Configuration.ConfigurationManager.ConnectionStrings["Con1"].ConnectionString))
             {
                 sqlConnection2.Open();
 
@@ -29,7 +30,7 @@ namespace SharePointFolderCreation
                     {
                         while (reader.Read())
                         {
-                            SitesList.Add(new Site(reader.GetString(0),reader.GetString(1)));
+                            SitesList.Add(new Site(reader.GetString(0), reader.GetString(1)));
                         }
 
                     }
@@ -87,11 +88,5 @@ namespace SharePointFolderCreation
             Console.ReadLine();
         }
 
-
-        //Connection String
-        public static string ConnetionString()
-        {
-            return "Data Source=ahwsqlch3024.DS.SJHS.com;Initial Catalog=FM_OPERATIONS;Integrated Security=True";
-        }
     }
 }
