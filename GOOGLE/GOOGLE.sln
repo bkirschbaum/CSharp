@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOOGLE", "GOOGLE\GOOGLE.csproj", "{8032E637-A628-435E-807E-CBC643E38D72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleDirections", "GoogleDirections\GoogleDirections.csproj", "{7C6447B2-D889-4306-AD8B-DA5542054C66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8032E637-A628-435E-807E-CBC643E38D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8032E637-A628-435E-807E-CBC643E38D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8032E637-A628-435E-807E-CBC643E38D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8032E637-A628-435E-807E-CBC643E38D72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C6447B2-D889-4306-AD8B-DA5542054C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6447B2-D889-4306-AD8B-DA5542054C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6447B2-D889-4306-AD8B-DA5542054C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6447B2-D889-4306-AD8B-DA5542054C66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31097CB7-98AB-486C-B833-993E8904203B}
+	EndGlobalSection
+EndGlobal

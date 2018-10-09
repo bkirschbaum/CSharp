@@ -1,0 +1,10 @@
+C:\Users\bakirschbaum\source\repos\GOOGLE\GOOGLE\bin\Debug\GOOGLE.exe.config
+C:\Users\bakirschbaum\source\repos\GOOGLE\GOOGLE\bin\Debug\GOOGLE.exe
+C:\Users\bakirschbaum\source\repos\GOOGLE\GOOGLE\bin\Debug\GOOGLE.pdb
+C:\Users\bakirschbaum\source\repos\GOOGLE\GOOGLE\obj\Debug\GOOGLE.csprojResolveAssemblyReference.cache
+C:\Users\bakirschbaum\source\repos\GOOGLE\GOOGLE\obj\Debug\GOOGLE.csproj.CoreCompileInputs.cache
+C:\Users\bakirschbaum\source\repos\GOOGLE\GOOGLE\obj\Debug\GOOGLE.exe
+C:\Users\bakirschbaum\source\repos\GOOGLE\GOOGLE\obj\Debug\GOOGLE.pdb
+C:\Users\bakirschbaum\source\repos\GOOGLE\GOOGLE\bin\Debug\GoogleDirections.dll
+C:\Users\bakirschbaum\source\repos\GOOGLE\GOOGLE\bin\Debug\GoogleDirections.pdb
+C:\Users\bakirschbaum\source\repos\GOOGLE\GOOGLE\bin\Debug\GoogleDirections.xml

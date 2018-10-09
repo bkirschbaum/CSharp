@@ -1,0 +1,7 @@
+C:\Users\bakirschbaum\source\repos\GOOGLE\GoogleDirections\bin\Debug\GoogleDirections.XML
+C:\Users\bakirschbaum\source\repos\GOOGLE\GoogleDirections\bin\Debug\GoogleDirections.dll
+C:\Users\bakirschbaum\source\repos\GOOGLE\GoogleDirections\bin\Debug\GoogleDirections.pdb
+C:\Users\bakirschbaum\source\repos\GOOGLE\GoogleDirections\obj\Debug\GoogleDirections.csprojResolveAssemblyReference.cache
+C:\Users\bakirschbaum\source\repos\GOOGLE\GoogleDirections\obj\Debug\GoogleDirections.csproj.CoreCompileInputs.cache
+C:\Users\bakirschbaum\source\repos\GOOGLE\GoogleDirections\obj\Debug\GoogleDirections.dll
+C:\Users\bakirschbaum\source\repos\GOOGLE\GoogleDirections\obj\Debug\GoogleDirections.pdb
